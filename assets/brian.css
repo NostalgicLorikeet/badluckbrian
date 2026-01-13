@@ -3,7 +3,7 @@
 }
 
 body {
-  background-image: url("assets/badluckbrian.png");
+  background-image: url("/assets/badluckbrian.png");
   background-size: 250px;
   background-repeat: repeat;
 }
